@@ -84,5 +84,7 @@ class MainActivity : AppCompatActivity() {
         for(i in 0..5){
             Log.d("뽑힌 숫자","${i}")
         }
+
+        var user5:User? = null
     }
 }
